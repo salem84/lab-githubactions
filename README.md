@@ -1,1 +1,1 @@
-# lab-githubactions
+# Lab for Github Actions
